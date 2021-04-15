@@ -1,0 +1,9 @@
+1. Have Steam open, do not have any games running.
+2. First you will open cheatengine "notepad++" (don't rename or it won't work).
+
+	MAKE SURE CHEAT ENGINE IS OPEN AT THIS POINT OF TIME !
+
+3. Then Drag DevsAreDogShit.sys over drivermap and allow it to map the driver.
+4. Open Dead By Daylight once driver is mapped.
+5. Run HandlerOn, once dbd has fully loaded and is at the main menu.
+6. Attach cheat engine to Dead By Daylight, click on table on cheat engine and paste the script and execute.
